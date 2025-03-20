@@ -21,6 +21,7 @@ No centralized way to track transaction history.
 Challenges in revenue monitoring for railway administrators.
 
 These issues lead to customer dissatisfaction and inefficiencies in train management.
+<hr>
 
 Solution
 
